@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    position: relative;
+  }
+  
+  .users-wrap {
+    padding-top: 30px;
+  }
+  
+  .user-info {
+    position: absolute;
+    top: 100px;
+    right: 600px;
+  }
+  
+  h1 {
+      text-align: center;
+      margin-top: 30px;
+  }
